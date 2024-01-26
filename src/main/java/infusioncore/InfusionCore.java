@@ -1,9 +1,9 @@
-package infusioncore.infusioncore_1;
+package infusioncore;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class InfusionCore_1 extends JavaPlugin {
+public final class InfusionCore extends JavaPlugin {
 
     @Override
     public void onEnable() {
